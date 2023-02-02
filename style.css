@@ -1,0 +1,61 @@
+body{
+    background-size: cover;
+
+}
+#H3{
+    font-size: 50px;
+    font-weight: bolder;
+    color: aqua;
+    
+
+}
+#Span_1{
+    font-size: 25px;
+    font-weight: bolder;
+    color: aqua;
+   
+}
+.Div_1{
+    float: left;
+   
+}
+.Div_2{
+    float: right;
+    
+
+}
+.div_speed{
+    
+    border-radius: 100;
+    width: 300px;
+}
+.div_volume{
+    width: 300px;
+    border-radius: 100px;
+
+}
+#speed{
+    color: aqua;
+
+}
+#Volume{
+    color: aqua;
+
+
+}
+.play{
+    border: 15px solid aqua;
+    border-radius: 100px;
+    font-size: 25px;
+    width: 150px;
+    font-weight: bolder;
+    background-color: black;
+    color: aqua;
+}
+canvas{
+    border: 15px dotted aqua;
+    border-radius: 100px;
+    margin-top: 300px;
+
+
+}
